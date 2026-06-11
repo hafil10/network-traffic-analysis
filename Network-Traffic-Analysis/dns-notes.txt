@@ -1,0 +1,16 @@
+objective:
+investigate DNStraffic using wireshark.
+
+Activity:
+Captured DNS queries and responses.
+
+Findings:
+Observed DNS resolution for google.com.
+Identified query and response packets.
+
+Tools:
+Kali Linux
+wireshark
+
+Results:
+Successfully analyzed DNS traffic.
